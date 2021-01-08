@@ -43,7 +43,7 @@ On a related note, you may also find inspiration in my [configuration][] of
 other tools if you are looking to set yours up (or better yet, have suggestions,
 as I am always looking to improve mine).
 
-[configurations]: https://github.com/foxfriends/config
+[configuration]: https://github.com/foxfriends/config
 [Yarner]: https://github.com/mlange-42/yarner
 
 If you like board games, I have turned a few of my favourites into
