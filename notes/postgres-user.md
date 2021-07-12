@@ -1,7 +1,7 @@
 # Postgres User
 
 @[PostgreSQL][] has a concept of "user" (or "role") that is distinct but related to the users on the
-operating system. Understanding this difference tends to make @[setting up][postgresql-setup] your
+operating system. Understanding this difference tends to make @[setting up][postgres-setup] your
 installation of Postgres a lot easier.
 
 Attempting to connect to the database using @[`psql`][] will attempt to connect to the database as the
