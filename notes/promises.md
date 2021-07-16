@@ -24,16 +24,18 @@ A `Promise` can be in any of three states:
 const printGoogle = () => fetch('https://google.com')
     .then((response) => {
         // The `Promise` resolves to the response.
-        // `response.text()` is also a `Promise`, so return it to add it to the chain.
+        // `response.text()` is also a `Promise`, so return it to
+        // add it to the chain.
         return response.text();
     })
     .then((text) => {
-        // Chaining off the above, this callback is called when the text is ready.
+        // Chaining off the above, this callback is called when the text 
+        // is ready.
         console.log(text);
     })
     .catch((error) => {
-        // In the case that the network request fails, the whole `Promise` chain
-        // will reject, and we can catch the error like this.
+        // In the case that the network request fails, the whole `Promise` 
+        // chain will reject, and we can catch the error like this.
         console.error(error);
     });
 ```
