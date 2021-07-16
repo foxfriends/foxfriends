@@ -15,7 +15,7 @@ async function printGoogle() {
     try {
         // `fetch()` is a function that returns a `Promise` that resolves to
         // the response. Use `await` to wait for the promise to resolve and
-            // just get the value.
+        // just get the value.
         const response = await fetch('https://google.com');
         // `response.text()` is also a `Promise`, so await that too.
         const text = await response.text();
