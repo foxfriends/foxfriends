@@ -5,5 +5,6 @@ be applied to any software project, regardless of choice of @[programming langua
 so are best learned with a mindset outside of any in particular.
 
 Here are some good ones:
-*   @[promises][]
-*   @[`async`/`await`][]
+*   @[Generators][generator-function]
+*   @[Asynchronous Programming][] (@[Promises][] and @[`async`/`await`][])
+*   @[Monads][monad]
