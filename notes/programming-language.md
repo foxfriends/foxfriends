@@ -10,3 +10,9 @@ concepts provide.
 
 That said, at the end of the day, code is written in a language so you do need to know
 some anyway.
+
+Here's some:
+*   @[Rust][]
+*   @[Javascript][]
+*   @[TypeScript][]
+*   @[SQL][]
