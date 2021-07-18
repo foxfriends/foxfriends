@@ -11,8 +11,16 @@ concepts provide.
 That said, at the end of the day, code is written in a language so you do need to know
 some anyway.
 
-Here's some:
-*   @[Rust][]
+Here are some that I may or may not discuss at some point:
+*   @[C][]
+*   @[C++][cplusplus]
+*   @[Haskell][]
+*   @[Io][io-language]
+*   @[Java][]
 *   @[Javascript][]
-*   @[TypeScript][]
+*   @[Prolog][]
+*   @[Python][]
+*   @[Ruby][]
+*   @[Rust][]
 *   @[SQL][]
+*   @[TypeScript][]
