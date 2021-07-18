@@ -21,6 +21,7 @@ they are very useful to know how to reason about, even when not developing in Ru
 
 Despite being fairly low level, Rust remains expressive enough to do pretty much anything
 in, featuring many of the other language features you might ask for, and more, including:
+*   @[Static typing][]
 *   @[Pattern matching][]
 *   @[`async`/`await`][rs-async-await]
 *   @[Lambdas][]

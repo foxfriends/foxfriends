@@ -5,7 +5,7 @@ working with @[promises/futures][promises] easier by hiding the calls to `.then(
 making @[asynchronous code][asynchronous-programming] look like regular (synchronous)
 code again.
 
-An "async function" is one that returns a promise, and can make use of the
+An "async function" is a @[function][] that returns a promise, and can make use of the
 `await` keyword to wait for the value of other promises.
 
 This feature is available in some languages, notably including @[Javascript][js-async-await]
