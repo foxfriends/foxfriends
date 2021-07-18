@@ -2,9 +2,17 @@ Hello, thanks for coming! I like to do a bit of anything that involves
 writing code. If you like learning and experimenting with new concepts,
 we might have something in common.
 
-My latest experiment is [Lumber][], a logic programming language to be
-used from Rust, which I hope to eventually use to implement the logic
-for games (first [Root][], then maybe I can use it for others).
+Most recently, I am attempting to build a collection of [notes][] documenting
+some things I wish I knew earlier. Mostly software development related for now,
+but maybe I'll put some other stuff in there one day. You can also find the 
+source files of those notes [here](https://github.com/foxfriends/foxfriends/tree/main/notes)
+
+[notes]: https://notes.cameldridge.com
+
+My most recent experiment was [Lumber][], a logic programming language to be
+used from Rust, which I was attempting to use to implement the logic
+for games (first [Root][], but eventually maybe others). This is somewhat on
+hold, as it turns out to be a large and tiring project.
 
 [Lumber]: https://github.com/foxfriends/lumber
 [Root]: https://github.com/foxfriends/root
