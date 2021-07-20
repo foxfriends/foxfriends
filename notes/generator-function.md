@@ -15,4 +15,5 @@ Some interesting applications of generators:
 3.  Any sort of stateful computation, where a sequence of steps is to be done in a
     specific order.
 
-Often confused with @[coroutines][], those are actually something else (though similar).
+Also sometimes called "stackless coroutines", generators should not be confused with full
+on (stackful) @[coroutines][], which are something else (though similar).
