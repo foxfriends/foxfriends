@@ -13,6 +13,7 @@ some anyway. Here are some that I may or may not discuss at some point:
 *   @[C][]
 *   @[C++][cplusplus]
 *   @[Datalog][]
+*   @[Go][go-language]
 *   @[Haskell][]
 *   @[Io][io-language]
 *   @[Java][]
