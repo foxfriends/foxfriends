@@ -9,7 +9,7 @@ Typical imperative code makes heavy use of @[control flow][], such as conditiona
 and @[loops][].
 
 Compared to other paradigms, imperative programming behaves most similarly to the
-way that computers actually execute programs, as a sequence of steps. Examples of
+way that computers actually execute programs, as a sequence of instructions. Examples of
 truly imperative programming languages include @[C][] and @[Zig][]. Since imperative
 programming on its own can sometimes be hard to work with, imperative languages
 usually include features of @[object-oriented programming][], @[functional programming][]

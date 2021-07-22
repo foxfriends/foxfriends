@@ -10,6 +10,7 @@ the ideas that the concepts provide.
 
 That said, at the end of the day, code is written in a language so you do need to know
 some anyway. Here are some that I may or may not discuss at some point:
+*   @[Bash][]
 *   @[C][]
 *   @[C++][cplusplus]
 *   @[Datalog][]
