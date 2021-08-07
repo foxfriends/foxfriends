@@ -8,5 +8,6 @@ code, documenting that code, and then maintaining and updating it during the lif
 of the developed application.
 
 Some different types of applications for software development:
-*   @[Web development][] (more specifically, @[frontend][frontend-web] and @[backend][backend-web] web development)
+*   @[Web development][]
+*   @[Mobile development][]
 *   @[Command line][] applications

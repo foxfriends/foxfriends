@@ -13,12 +13,16 @@ some anyway. Here are some that I may or may not discuss at some point:
 *   @[Bash][]
 *   @[C][]
 *   @[C++][cplusplus]
+*   @[CSS][]
 *   @[Datalog][]
 *   @[Go][go-language]
+*   @[GraphQL][]
 *   @[Haskell][]
+*   @[HTML][]
 *   @[Io][io-language]
 *   @[Java][]
 *   @[Javascript][]
+*   @[JSON][]
 *   @[Lisp][]
 *   @[ML][ml-language]
 *   @[Prolog][]
@@ -29,3 +33,6 @@ some anyway. Here are some that I may or may not discuss at some point:
 *   @[Swift][]
 *   @[TypeScript][]
 *   @[Zig][]
+
+Note that some of those aren't strictly *programming* languages, but languages related
+to programming. I think tey might as well go all together.

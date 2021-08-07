@@ -2,4 +2,7 @@
 
 A DBMS is used to manage databases.
 
-Common examples include @[PostgreSQL][] or @[MySQL][].
+Common options include: 
+*   @[PostgreSQL][] 
+*   @[MySQL][]
+*   @[MongoDB][]
