@@ -10,9 +10,9 @@ as to build requests which will be handled by the server. This language is, of
 course, not a full @[programming language][] as it can only be used for describing
 requests and not for expressing general computations.
 
-In GraphQL, the idea is that the data is represented as a @[graph][]. The @[schema][graphql-schema]
-defines the graph, and the requests (@[queries][graphql-query] or
-@[mutations][graphql-mutation]) traverse that graph, requesting the individual
+In GraphQL, the idea is that the data is represented as a @[graph][]. The
+@[schema][graphql-schema] defines the graph, and the requests (@[queries][graphql-query]
+or @[mutations][graphql-mutation]) traverse that graph, requesting the individual
 pieces of data that are required.
 
 Another of the major advantages of GraphQL over traditional REST APIs is that a
