@@ -3,7 +3,7 @@
 [GraphQL](https://graphql.org/), originally developed by @[Facebook][], is a
 method of designing a web @[API][application-programming-interface] that puts
 the question of which data to send in the response into the hands of the
-requester, rather than the sender (as is usually the case for @[REST][] APIs).
+requester, rather than the sender (as is usually the case for @[REST][representational-state-transfer] APIs).
 
 GraphQL comes with a language that can be used to both define the schema as well
 as to build requests which will be handled by the server. This language is, of

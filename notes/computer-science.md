@@ -8,5 +8,5 @@ that languages are designed, and then using those languages, that software is bu
 Some topics in computer science:
 *   The @[Lambda Calculus][]
 *   @[Boolean][booleans] logic
-*   @[Type systems][]
+*   @[Type systems][type-system]
 *   The @[monad][]
