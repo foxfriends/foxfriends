@@ -10,7 +10,7 @@ Keep in mind that:
 *   A monad has a constructor, referred to here as `of`, which creates the base instance of
     the monad that evaluates to the provided value. For example: `of x` is a monad
     that evaluates to the value `x`.
-*   A monad implements the bind operator `>>=` such that the expression `m >>= f` (where `m`
+*   A monad implements the bind operator $>\!\!>\!\!=$ such that the expression `m >>= f` (where `m`
     is a monad and `f` is a function that returns a new monad) means to run monad `m`,
     then call function `f` with the resulting value of that monad, finally evaluating to the
     result of `f` (a new monad of the same type).
@@ -20,7 +20,8 @@ Keep in mind that:
 ### Left Identity
 
 "Binding a base-monadic value to a function is the same as just calling the function on the
-regular value."
+regular value." This means that, when composed on the left, `of` acts as the @[identity function][]
+for monadic computations.
 
 ```
 of >=> f === f
@@ -34,7 +35,8 @@ of x >>= f === f x
 
 ### Right Identity
 
-"Binding a monad into a base monad is the same as not binding at all."
+"Binding a monad into a base monad is the same as not binding at all." When used on the right, `of`
+is still the identity function!
 
 ```
 f >=> of === f
