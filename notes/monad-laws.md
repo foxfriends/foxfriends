@@ -44,8 +44,7 @@ m >>= of === m
 
 ### Associativity
 
-"Since monads represent computations, they can be composed (as with functions). That composition
-can be associative both left and right equivalently."
+"Monadic composition is both left and right associative."
 
 ```
 (f >=> g) >=> h === f >=> (g >=> h)
