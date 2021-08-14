@@ -19,4 +19,4 @@ Many other languages also have implementations of promises (or futures) includin
 have such first-class support for them as Javascript and Rust.
 
 More generally, a promise can be considered a @[monad][], where `.then()` (or equivalent)
-implements `bind`.
+implements `bind` (`>>=`).
