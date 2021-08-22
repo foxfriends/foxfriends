@@ -11,7 +11,7 @@ language such as @[C][] or @[Rust][], or even mid-level languages like @[Java][]
 In particular, arrays tend to be implemented such that in the actual @[memory][computer-memory]
 layout of the data each entry of the array is stored directly following the previous entry.
 This makes arrays very efficient for indexed access, as the memory address of any item can be
-found immediately given the equation $\text{Address} = \text{Base} + \text{Size} * \text{Index}$,
+found immediately given the equation $\text{Address} = \text{Base} + \text{Size} \times \text{Index}$,
 where $\text{Base}$ is the address of the first item in the array, $\text{Size}$ is the size of
 each entry, and $\text{Index}$ is the index of the item in question (starting from 0).
 It is due to this relation that, in most languages, the items in the array are 0-indexed, such
