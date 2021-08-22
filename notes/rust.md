@@ -3,6 +3,8 @@
 [Rust][] is one of my favourite @[languages][programming-language] for its powerful
 @[type system][], emphasis on safety and speed, and overall great developer experience.
 
+[Rust]: https://rust-lang.org
+
 Though for small enough tasks, the overhead of such a strict @[compiler][] and relatively
 large resulting binary size may not be worth dealing with, Rust is great for mid- to
 large-size projects where data requirements are no longer something you can keep track
