@@ -15,6 +15,6 @@ Despite such languages being most well suited to small scripts, nothing stops pe
 from using them to write whole applications. Particularly with more general-purpose
 scripting languages, such as @[Javascript][], @[Python][] or @[Ruby][], this is quite
 common. Though it can be made to work and makes prototyping very easy, because these
-languages are less strict and typically less performant such an approach does not
+languages are less strict, and typically less performant, such an approach does not
 scale in the long term (at least, not in my opinion). For larger scale projects, a
 more formally structured language may be more sustainable.
