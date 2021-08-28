@@ -8,29 +8,43 @@ Might as well list some of my favourites for now? Maybe these will turn into vid
 game reviews one day. Some big, some small, all fun. I try to organize them into 
 genre for now, though some probably could be considered to span multiple.
 
-RPG
-*   @[Hyper Light Drifter][]
-*   @[The Legend of Zelda][]
-*   @[Rune Factory][]
-*   @[Tales][]
+### RPG
 
-Slice of life (is that a game genre?)
-*   @[Animal Crossing][]
-*   @[Stardew Valley][]
+*   @[Hyper Light Drifter][video-game-hyper-light-drifter]
+*   @[The Legend of Zelda][video-game-legend-of-zelda]
+*   @[Rune Factory][video-game-rune-factory]
+*   @[Tales][video-game-tales-series] (series)
+*   @[Undertale][video-game-undertale]
 
-Puzzle
-*   @[Ittle Dew][]
+### Slice of life 
 
-Building
-*   @[Factorio][]
-*   @[Oxygen Not Included][]
-*   @[Banished][]
+*   @[Animal Crossing][video-game-animal-crossing]
+*   @[Stardew Valley][video-game-stardew-valley]
 
-Strategy
-*   @[Fire Emblem][]
-*   @[Civilization][]
+### Puzzle
 
-I have also @[made][game-development] a few, of which I have located just the one:
-*   [White](https://cameldridge.com/game/White/)
+*   @[Ittle Dew][video-game-ittle-dew]
+*   @[The Witness][video-game-witness]
+*   @[Fez][video-game-fez]
+*   @[
 
-Would be down to make some more though.
+### Building
+
+*   @[Factorio][video-game-factorio]
+*   @[Oxygen Not Included][video-game-oxygen-not-included]
+*   @[Banished][video-game-banished]
+
+### Strategy
+
+*   @[Fire Emblem][video-game-fire-emblem]
+*   @[Civilization][video-game-civilization]
+
+### Action
+
+*   @[Hades][video-game-hades]
+*   @[Dead Cells][video-game-dead-cells]
+
+### Arcade
+
+*   @[Mini Motorways][video-game-mini-motorways]
+*   @[Beat Saber][video-game-beat-saber]
