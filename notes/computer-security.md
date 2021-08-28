@@ -20,3 +20,4 @@ simply take the whole system down).
 
 Some types of attacks include:
 *   @[SQL injection][]
+*   @[Buffer overflow][]
