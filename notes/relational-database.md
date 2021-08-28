@@ -1,6 +1,6 @@
 # Relational Database
 
-__Relational databases__ represent data as *@[relations][]* (tables of *attributes*) which
+__Relational databases__ represent data as *@[relations][database-relation]* (tables of *attributes*) which
 reference each other to describe the relationships between different objects.
 Relational databases are implemented by some @[DBMSs][database-management-system].
 

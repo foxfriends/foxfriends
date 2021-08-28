@@ -1,6 +1,6 @@
 # Composite Key
 
-A __composite key__ is any @[key][database-key] that is made up of more than one column of a @[relation][] in a 
+A __composite key__ is any @[key][database-key] that is made up of more than one column of a @[relation][database-relation] in a 
 @[relational database][]. Often multiple composite keys may exist for a particular piece of 
 data, but are irrelevant and not explicitly identified as such.
 
