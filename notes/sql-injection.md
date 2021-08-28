@@ -7,7 +7,7 @@ with raw user input.
 ## The attack
 
 Take, for example, this very naïve piece of (@[Javascript][]) code (please never *run*
-this example, as it is being used to demonstrate a major security flaw).
+this example, as it is being used to demonstrate a major @[security][computer-security] flaw).
 
 ```javascript
 const client = /* some database client */;
