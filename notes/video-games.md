@@ -26,7 +26,6 @@ genre for now, though some probably could be considered to span multiple.
 *   @[Ittle Dew][video-game-ittle-dew]
 *   @[The Witness][video-game-witness]
 *   @[Fez][video-game-fez]
-*   @[
 
 ### Building
 
