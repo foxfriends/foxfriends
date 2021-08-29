@@ -6,7 +6,7 @@ be composed than a bunch of concatenations. This is often implemented as a @[fun
 that takes as parameters the format string and the values to insert into that format.
 
 Some examples from different @[languages][programming-language] to create the string
-"Hello World" when the value of "World" is stored in a @[variable][] `name`:
+"Hello World" when the value of "World" is stored in a @[variable][variables] `name`:
 *   @[Rust][]: `format!("Hello {}", name)`
 *   @[C][]: `sprintf("Hello %s", name)` (**print** **f**ormatted to **s**tring)
 *   @[Bash][]: `printf 'Hello %s' $name`

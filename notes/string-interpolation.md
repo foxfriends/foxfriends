@@ -8,7 +8,7 @@ Often this is by using a special sequence of characters within a string quoted a
 way.
 
 Some examples, to create the string "Hello World", where the text "World" is stored in a
-@[variable][] `name`:
+@[variable][variables] `name`:
 *   @[Javascript][]: `` `Hello ${name}` ``
 *   @[Ruby][]: `"Hello #{name}"`
 *   @[Swift][]: `"Hello \(name)"`
