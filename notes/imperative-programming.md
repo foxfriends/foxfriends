@@ -1,6 +1,6 @@
 # Imperative Programming
 
-__Imperative programming__ is one of the more popular @[programming paradigms][],
+__Imperative programming__ is one of the more popular @[programming paradigms][programming-paradigm],
 in which a program is written as a sequence of steps, which are executed in order.
 These steps typically modify the state of the program (stored in @[variables][])
 via @[mutation][].

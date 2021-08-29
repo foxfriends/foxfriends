@@ -1,6 +1,6 @@
 # Functional Programming
 
-__Functional programming__ is one of the more popular @[programming paradigms][],
+__Functional programming__ is one of the more popular @[programming paradigms][programming-paradigm],
 notably featuring heavy use of @[first-class functions][] and @[lambdas][] to
 aid in developing correct code and to facilitate easy code-reuse.
 
