@@ -16,7 +16,7 @@ using a number of popular NPM packages, such as @[Koa][npm-koa] or @[Express][np
 
 Similar projects include @[Deno][], currently in relatively early stages, which appears to
 try and succeed Node.js by providing first-class support for @[TypeScript][] and changing
-how the @[module][] system works. I am interested to see where this goes.
+how the @[module][modules] system works. I am interested to see where this goes.
 
 While Node.js is popular for and easy to use to create web servers, keep in mind that
 it does not tend to lead to the most performant of programs. Though good for creating

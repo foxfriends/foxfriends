@@ -36,5 +36,5 @@ With that, notable features of *Javascript* include:
 *   @[Promises][js-promises] and @[`async`/`await`][js-async-await] (but not @[concurrency][])
 *   @[Generators][js-generator] (but not @[coroutines][])
 *   Facilities for @[metaprogramming][] and @[reflection][]
-*   A @[module][] system (though not always the one used in practice)
+*   A @[module][modules] system (though not always the one used in practice)
 *   Inclusion of the @[`Symbol` type][]

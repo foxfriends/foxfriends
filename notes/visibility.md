@@ -1,7 +1,7 @@
 # Visibility
 
 __Visibility__ (or access) describes the ability of code written outside
-of a particular scope (@[module][], @[package][packages], @[class][], etc.) 
+of a particular scope (@[module][modules], @[package][packages], @[class][], etc.) 
 from being able to view or access items (@[variables][], @[types][], @[functions][], etc.) 
 declared in that scope.
 
