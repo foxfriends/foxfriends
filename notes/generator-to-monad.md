@@ -6,13 +6,13 @@ really, in any @[language][programming-language] with generators and a way to
 represent @[monads][monad]).
 
 ```javascript
-function do_(Monad, generator, that, ...args) {
+function do_(Monad, generator) {
     const next = (iter, input) => {
         const { value, done } = iter.next(input);
         if (done) { return Monad.of(value); }
         return value.bind((output) => next(iter, output));
     };
-    return next(generator.call(that, ...args));
+    return Monad.of(undefined).bind(() => next(generator(), undefined);
 }
 ```
 
@@ -22,12 +22,12 @@ returns `{ done, value, cont }`, expecting the next call to `inext()` is done
 on the `cont`, instead of modifying the current value,
 
 ```javascript
-function do_(Monad, generator, that, ...args) {
+function do_(Monad, generator) {
     const next = (iter, input) => {
         const { value, done, cont } = iter.inext(input);
         if (done) { return Monad.of(value); }
         return value.bind((output) => next(cont, output));
     };
-    return next(generator.call(that, ...args));
+    return Monad.of(undefined).bind(() => next(generator(), undefined);
 }
 ```
