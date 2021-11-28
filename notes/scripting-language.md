@@ -1,8 +1,7 @@
 # Scripting Language
 
 A __scripting language__ is a type of @[programming language][] that is best suited
-to writing *scripts*, typically small (single file) programs that accomplish a specific
-task.
+to writing @[scripts][].
 
 Scripting languages have a tendency to be higher-level languages with a
 @[dynamic type][dynamic-typing] system to make development of such small
