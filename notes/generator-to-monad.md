@@ -1,7 +1,7 @@
 # Generator to Monad Transformation
 
 One of the many applications of @[generators][generator-function] is to implement
-a (deterministic) version of the [`do` notation][monad-do] in @[Javascript][] (or
+a (deterministic) version of the @[`do` notation][monad-do] in @[Javascript][] (or
 really, in any @[language][programming-language] with generators and a way to 
 represent @[monads][monad]).
 
