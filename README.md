@@ -1,25 +1,17 @@
 Hello, thanks for coming! I like to do a bit of anything that involves
 writing code. If you like learning and experimenting with new concepts,
-we might have something in common.
-
-Most recently, I am attempting to build a collection of [notes][] documenting
-some things I wish I knew earlier. Mostly software development related for now,
-but maybe I'll put some other stuff in there one day. You can also find the 
-source files of those notes [here](https://github.com/foxfriends/foxfriends/tree/main/notes)
+we might have something in common. Occasionally I write [notes][] of
+things I know, and even more infrequently I'll write a whole [blog][] post,
+but you really don't need to be interested in that. If you think I might
+know something you want to know but didn't yet write down, feel free to 
+reach out.
 
 [notes]: https://notes.cameldridge.com
+[blog]: https://blog.cameldridge.com
 
-My most recent experiment was [Lumber][], a logic programming language to be
-used from Rust, which I was attempting to use to implement the logic
-for games (first [Root][], but eventually maybe others). This is somewhat on
-hold, as it turns out to be a large and tiring project.
-
-[Lumber]: https://github.com/foxfriends/lumber
-[Root]: https://github.com/foxfriends/root
-
-There are other experiments I would like to get to in the future,
-some of which I investigated briefly but then set aside. If any of these are
-of interest to you too, that would be cool!
+There are a few experiments I would like to get to in the future,
+some of which I investigated briefly but then set aside. Maybe some
+of these could be of interest to someone else too:
 *   A user-owned "digital identity", putting users in control of their information.
     Along with this, a few apps which might use it:
     *   An "offline social network" ([Pigeon][]), exclusively using local
@@ -47,11 +39,11 @@ a suitable alternative elsewhere:
     programming (though if you are interested in this, you may also be interested
     in [Yarner][], which has gone on to be a respectable successor to `outline`).
 
-On a related note, you may also find inspiration in my [configuration][] of
-other tools if you are looking to set yours up (or better yet, have suggestions,
+On a related note, you may also find inspiration in my [dotfiles][] and such
+if you are looking to set your environment up (or better yet, have suggestions,
 as I am always looking to improve mine).
 
-[configuration]: https://github.com/foxfriends/config
+[dotfiles]: https://github.com/foxfriends/dotfiles
 [Yarner]: https://github.com/mlange-42/yarner
 
 If you like board games, I have turned a few of my favourites into
@@ -62,4 +54,4 @@ them out:
 *   [Tokaido](https://github.com/foxfriends/tokaido)
 *   [Machi Koro](https://github.com/foxfriends/machi-koro)
 *   [Mahjong](https://github.com/foxfriends/mahjong)
-*   [Root][] (work in progress)
+*   [Root](https://github.com/foxfriends/root)
