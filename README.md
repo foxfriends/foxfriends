@@ -33,8 +33,8 @@ you may be interested in a few of the tools I built because I couldn't find
 a suitable alternative elsewhere:
 *   [`paper`](https://github.com/foxfriends/paper-terminal), a better
     looking Markdown typesetter.
-*   [`syncat`](https://github.com/foxfriends/syncat), a syntax-highlighter,
-    similar to `cat`, which works well with `paper`.
+*   [`syncat`](https://github.com/foxfriends/syncat), a tree-sitter based
+    syntax highlighter, similar to `cat`, which works well with `paper`.
 *   [`outline`](https://github.com/foxfriends/outline), a tool for literate
     programming (though if you are interested in this, you may also be interested
     in [Yarner][], which has gone on to be a respectable successor to `outline`).
