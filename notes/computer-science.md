@@ -10,3 +10,4 @@ Some topics in computer science:
 *   @[Boolean][booleans] logic
 *   @[Type systems][type-system]
 *   The @[monad][]
+*   @[DFAs][deterministic-finite-automaton] and @[NFAs][nondeterministic-finite-automaton]
