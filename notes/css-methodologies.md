@@ -7,8 +7,10 @@ to follow. In the days before such methodologies were developed, it was just a m
 try and figure out how the CSS worked, and as it grew, things just start conflicting and
 causing problems.
 
-So far, I have experience with @[BEM][block-element-modifier], which worked alright...
-haven't tried any others yet though.
+Some popular ones include:
+*   @[Block Element Modifier][block-element-modifier] (BEM)
+*   Utility first, such as @[Tailwind][tailwind-css]
+*   @[DRY CSS][]
 
 As far as I can tell, most @[frontend frameworks][] are coming up with better ways of
 encapsulating styles with components. Once styles are component-scoped, there is so
