@@ -1,4 +1,4 @@
-# Theater JS
+# Theatre JS
 
 An @[NPM][] package for building cool @[web animations][] or something.
 
