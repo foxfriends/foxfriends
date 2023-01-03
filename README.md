@@ -3,20 +3,36 @@ writing code. If you like learning and experimenting with new concepts,
 we might have something in common. Occasionally I write [notes][] of
 things I know, and even more infrequently I'll write a whole [blog][] post,
 but you really don't need to be interested in that. If you think I might
-know something you want to know but didn't yet write down, feel free to 
+know something you want to know but didn't yet write down, feel free to
 reach out.
 
 [notes]: https://notes.cameldridge.com
 [blog]: https://blog.cameldridge.com
 
+My current project is [Trilogy][]; a new programming language combining
+the best of imperative, functional, *and* logical programming, along
+with the latest and greatest investigations into effect systems. For
+those who paid any notice to my previous language project, [Lumber][],
+this is sort of a follow-up to try and overcome some of the pain points
+of logic languages by incorporating logic programming as a first class
+citizen alongside the more conventional paradigms.
+
+[Trilogy]: https://github.com/foxfriends/trilogy
+[Lumber]: https://github.com/foxfriends/lumber
+
 There are a few experiments I would like to get to in the future,
 some of which I investigated briefly but then set aside. Maybe some
 of these could be of interest to someone else too:
 *   A user-owned "digital identity", putting users in control of their information.
+
     Along with this, a few apps which might use it:
     *   An "offline social network" ([Pigeon][]), exclusively using local
         communiciation to build a sense of community in the digital age.
     *   A reimagined digital loyalty-card.
+
+    Something along these lines may be a good application of Web3 to something
+    familiar that can help get the uninitiated involved in the decentralized web.
+    Crypto can be scary, maybe little things will be more accessible.
 *   A multi-purpose [drag-and-drop visual programming language][drag-drop-language]
     allowing for a intuitive graph based control flow instead of the usual linear
     text-based experience.
