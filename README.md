@@ -10,7 +10,7 @@ reach out.
 [blog]: https://blog.cameldridge.com
 
 My current project is [Trilogy][]; a new programming language combining
-the best of imperative, functional, *and* logical programming, along
+the best of imperative, functional, *and* logic programming, along
 with the latest and greatest investigations into effect systems. For
 those who paid any notice to my previous language project, [Lumber][],
 this is sort of a follow-up to try and overcome some of the pain points
@@ -70,4 +70,4 @@ them out:
 *   [Tokaido](https://github.com/foxfriends/tokaido)
 *   [Machi Koro](https://github.com/foxfriends/machi-koro)
 *   [Mahjong](https://github.com/foxfriends/mahjong)
-*   [Root](https://github.com/foxfriends/root)
+*   ~~[Root](https://github.com/foxfriends/root)~~ This one never got off the ground
