@@ -8,8 +8,8 @@ the shifting feelings these days, it just seems more interesting to have my code
 my own servers. To that end, I will be trying out some self-hosted Git solutions,
 starting with [tangled][] and [radicle][], to see how it all works out.
 
-[tangled]: https://tangled.sh/@eldridge.cam
-[radicle]: https://app.radicle.xyz/nodes/rad.eldridge.cam/
+[tangled]: https://tangled.org/eldridge.cam
+[radicle]: https://app.seed.eldridge.cam/nodes/seed.eldridge.cam/
 
 My current main project is [Trilogy][]; a new programming language combining
 the best of imperative, functional, *and* logic programming, along with the
