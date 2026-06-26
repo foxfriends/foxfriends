@@ -3,7 +3,7 @@ Occasionally I [blog][] about it, but you really don't need to be interested in 
 
 [blog]: https://blog.cameldridge.com
 
-Right now I'm... considering the options. I likely won't fully let it go, but with
+Right now I'm... considering the options. I likely won't let GitHub go, but with
 the shifting feelings these days, it just seems more interesting to have my code in
 my own servers. To that end, I will be trying out some self-hosted Git solutions,
 starting with [tangled][] and [radicle][], to see how it all works out.
